@@ -4,15 +4,13 @@ import java.util.Scanner;
 public class Question_8_9_10_11_12_13_14 {
 
     public static void main(String[] args) {
-        // Scanner scanner = new Scanner(System.in);
-        // q8();
-        // q9();
-        // q10();
-        // q11();
-        // q12();
-        // q13();
-        // scanner.close();
-        q14();
+         q8();
+//         q9();
+//         q10();
+//         q11();
+//         q12();
+//         q13();
+//        q14();
     }
 
     // Question 8
